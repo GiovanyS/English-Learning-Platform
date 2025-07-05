@@ -30,14 +30,15 @@ Application security was implemented using cloud security best practices and enh
 - Google Artifact Repository  
 - Google Cloud Workload Identity  
 - Google Cloud SQL  
-- FortiDevSecOps  
+- FortiDevSecOps
+- FortiDast
 - Python/Django  
 - HTML  
 - JavaScript  
 - PostgreSQL  
 - GitHub Repository  
 - GitHub Actions  
-
+- Ubuntu
 ---
 
 ## **Steps**  
