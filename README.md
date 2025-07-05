@@ -33,8 +33,8 @@ Screenshots of the Project Development
 <img width="657" alt="ER-1" src="https://github.com/user-attachments/assets/a006a4f6-be4a-4bb8-80ba-e9b1ae233869">
    
 4. Website Pages:
-<img width="657" alt="ER-1" src="github.com/user-attachments/assets/cf74f51f-75fe-40a0-8a16-c5a4024287fa">
-<img width="657" alt="ER-1" src="https://github.com/user-attachments/assets/c07fb745-14e1-4b12-b5d2-4aac713fa2d2">
+<img width="657"  src="https://github.com/user-attachments/assets/cf74f51f-75fe-40a0-8a16-c5a4024287fa">
+<img width="657"  src="https://github.com/user-attachments/assets/c07fb745-14e1-4b12-b5d2-4aac713fa2d2">
 
 
 
